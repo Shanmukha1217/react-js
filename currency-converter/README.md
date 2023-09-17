@@ -6,7 +6,7 @@ Demo- https://currency-converter-ds.netlify.app/
 
 ## Implementation
 
-- Custom Hook to get data of different currencies(check `useCurrencyInfo.js` file under `hooks` folder)
+- Custom Hook to get data of different currencies(check `useCurrencyInfo.js` file under `src/hooks` folder)
 - Re-use of Components with props.
 
 ## credits
